@@ -1,0 +1,2844 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.11 87bfad18",
+    "osm3s": {
+        "timestamp_osm_base": "2026-04-10T21:36:40Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 369003583,
+            "lat": 44.721909,
+            "lon": -93.2668884,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "285",
+                "gnis:feature_id": "660039",
+                "internet_access": "no",
+                "name": "Crystal Lake Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369003734,
+            "lat": 44.5819079,
+            "lon": -93.8016293,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "296",
+                "gnis:feature_id": "660058",
+                "name": "Nagel and Schultz Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35283060"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369003744,
+            "lat": 44.6636505,
+            "lon": -93.7791535,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "291",
+                "faa": "7Y7",
+                "gnis:feature_id": "660057",
+                "name": "A.R.S. Sport Strip",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369003792,
+            "lat": 44.7181512,
+            "lon": -93.044156,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "280",
+                "gnis:feature_id": "660114",
+                "name": "Turkey Track Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35313503"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369003964,
+            "lat": 44.7946845,
+            "lon": -93.8538549,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "306",
+                "gnis:feature_id": "660077",
+                "name": "Empire Farm Strip",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004115,
+            "lat": 44.8802407,
+            "lon": -93.6085691,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "288",
+                "gnis:feature_id": "660101",
+                "name": "Andings Landing Seaplane Base",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q34956196"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004120,
+            "lat": 44.8336745,
+            "lon": -93.5320704,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "265",
+                "gnis:feature_id": "660100",
+                "name": "Rileys Landing Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004301,
+            "lat": 44.1863556,
+            "lon": -93.7141167,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "326",
+                "gnis:feature_id": "660139",
+                "name": "Gallers Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q34965497"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004353,
+            "lat": 44.8952113,
+            "lon": -93.6635938,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "289",
+                "gnis:feature_id": "660146",
+                "name": "Flobacks Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004359,
+            "lat": 44.8802407,
+            "lon": -93.6091248,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "288",
+                "gnis:feature_id": "660147",
+                "name": "Lake Minnewashta Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004401,
+            "lat": 44.4166304,
+            "lon": -93.3310536,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "306",
+                "gnis:feature_id": "660152",
+                "name": "Quist Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004411,
+            "lat": 44.6609268,
+            "lon": -93.1002099,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "267",
+                "gnis:feature_id": "660154",
+                "name": "Stegmaier Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35262221"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004414,
+            "lat": 44.5870901,
+            "lon": -93.1860886,
+            "tags": {
+                "access": "no",
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "307",
+                "gnis:feature_id": "660157",
+                "historic": "yes",
+                "name": "Le Nores Airport (historic)",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35274042"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004417,
+            "lat": 44.6037832,
+            "lon": -93.0939026,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "281",
+                "gnis:feature_id": "660156",
+                "name": "Lucht Field",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004418,
+            "lat": 44.5992989,
+            "lon": -93.1276004,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "295",
+                "gnis:feature_id": "660159",
+                "name": "Nielsens Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35284123"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004422,
+            "lat": 44.635858,
+            "lon": -93.0699756,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "278",
+                "gnis:feature_id": "660158",
+                "name": "Sowieja Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35305168"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004580,
+            "lat": 44.8159294,
+            "lon": -93.0143973,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "210",
+                "gnis:feature_id": "660228",
+                "name": "Wipline Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35321921"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004581,
+            "lat": 44.8165343,
+            "lon": -93.0148532,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "215",
+                "gnis:feature_id": "660229",
+                "name": "Wipline Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004627,
+            "lat": 44.6996847,
+            "lon": -93.8669103,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "297",
+                "gnis:feature_id": "660328",
+                "name": "Sons Landing Strip",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35304598"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004643,
+            "lat": 44.6032964,
+            "lon": -93.5224525,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "288",
+                "gnis:feature_id": "660318",
+                "name": "Loon Lane Seaplane Base",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35275873"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004659,
+            "lat": 44.2396894,
+            "lon": -93.8605092,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "300",
+                "gnis:feature_id": "660268",
+                "name": "Valley News County-Lake Washington Seaplane Base",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35314778"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004663,
+            "lat": 44.0996886,
+            "lon": -93.9168974,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "306",
+                "gnis:feature_id": "660272",
+                "name": "Mankato Farmstrip Airport",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004668,
+            "lat": 44.9991932,
+            "lon": -93.4209835,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "276",
+                "gnis:feature_id": "660294",
+                "name": "Peterson Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004675,
+            "lat": 44.8746847,
+            "lon": -93.8919121,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "300",
+                "gnis:feature_id": "660282",
+                "name": "Ziermann Landing Strip",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35324136"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004676,
+            "lat": 44.8785849,
+            "lon": -93.885561,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "302",
+                "gnis:feature_id": "660283",
+                "name": "Sells Flying Field",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004704,
+            "lat": 44.6996854,
+            "lon": -93.4718958,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "279",
+                "gnis:feature_id": "660367",
+                "name": "Martys Tranquility Base Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004705,
+            "lat": 44.7391304,
+            "lon": -93.3957822,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "273",
+                "gnis:feature_id": "660368",
+                "name": "Valines Landing Seaplane Base",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35314671"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004742,
+            "lat": 44.9944084,
+            "lon": -93.4260637,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "272",
+                "gnis:feature_id": "660360",
+                "name": "Eastmans Medicine Lake Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004761,
+            "lat": 44.9288518,
+            "lon": -93.6174588,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "286",
+                "gnis:feature_id": "660334",
+                "name": "Amundson Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 369004930,
+            "lat": 44.9632962,
+            "lon": -93.6224594,
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "285",
+                "gnis:feature_id": "660424",
+                "name": "Vasa Park Seaplane Base",
+                "source_ref": "geonames.usgs.gov"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1042009188,
+            "lat": 44.9844017,
+            "lon": -93.9360962,
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Schumacher Airport",
+                "source": "ourairports.com",
+                "wikidata": "Q35299722"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1042015522,
+            "lat": 44.8875008,
+            "lon": -93.8421021,
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Goose Lake Seaplane Base",
+                "source": "ourairports.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1042018264,
+            "lat": 44.8017006,
+            "lon": -93.9503021,
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Fox Field",
+                "source": "ourairports.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1042018816,
+            "lat": 44.9389,
+            "lon": -93.722702,
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Whaletail Lake Seaplane Base",
+                "source": "ourairports.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1042048219,
+            "lat": 44.9143982,
+            "lon": -93.6884995,
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "The Pass Seaplane Base",
+                "source": "ourairports.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 22927933,
+            "center": {
+                "lat": 44.8806398,
+                "lon": -93.2176269
+            },
+            "nodes": [
+                246916978,
+                410522281,
+                13235163029,
+                410522298,
+                13235163053,
+                410522451,
+                12134309908,
+                410522718,
+                12134309902,
+                410522787,
+                13235206970,
+                13235207100,
+                410523138,
+                13235207071,
+                13235207181,
+                410523377,
+                410515065,
+                410514634,
+                13235276473,
+                410524015,
+                13235276445,
+                13235276363,
+                410523924,
+                13235276126,
+                13235276109,
+                13235235495,
+                410523700,
+                246916958
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "name": "12R/30L",
+                "ref": "12R/30L"
+            }
+        },
+        {
+            "type": "way",
+            "id": 22927935,
+            "center": {
+                "lat": 44.8871002,
+                "lon": -93.2074803
+            },
+            "nodes": [
+                246917007,
+                410510222,
+                410511281,
+                410511350,
+                410511394,
+                12134309912,
+                13239686564,
+                13239686574,
+                410511478,
+                13239686531,
+                13239686532,
+                410511527,
+                13236860504,
+                410511536,
+                13236860529,
+                410509855,
+                13236860952,
+                13237247170,
+                410508547,
+                13237247108,
+                410508558,
+                294045082
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "name": "12L/30R",
+                "ref": "12L/30R"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35001761,
+            "center": {
+                "lat": 44.8769642,
+                "lon": -93.239469
+            },
+            "nodes": [
+                294045167,
+                410536733,
+                13235589280,
+                410536817,
+                13235598813,
+                410534929,
+                13235599040,
+                410537884,
+                13235599070,
+                12134281494,
+                13235599133,
+                410538102,
+                13235599158,
+                12134281488,
+                13235599231,
+                410538143,
+                13235599252,
+                410538241,
+                13235599398,
+                13235599440,
+                410538252,
+                246916965
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "name": "17/35",
+                "ref": "17/35"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35127828,
+            "center": {
+                "lat": 44.8571429,
+                "lon": -93.0328634
+            },
+            "nodes": [
+                412064497,
+                12670588890,
+                1017191648,
+                412064499
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "elevation": "250",
+                "length": "1220",
+                "name": "16/34",
+                "ref": "16/34",
+                "source": "landsat;skyvector",
+                "surface": "asphalt",
+                "width": "30"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35567612,
+            "center": {
+                "lat": 44.8277446,
+                "lon": -93.4612695
+            },
+            "nodes": [
+                416783951,
+                417682620,
+                416783957,
+                417683246,
+                417683413,
+                417683613,
+                416783952
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "1524",
+                "name": "10R/28L",
+                "ref": "10R/28L",
+                "source": "Yahoo aerial photos",
+                "width": "30"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35567613,
+            "center": {
+                "lat": 44.8254319,
+                "lon": -93.4548842
+            },
+            "nodes": [
+                417679270,
+                416783958,
+                416783957,
+                417681177,
+                417683254,
+                417682215
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "820",
+                "name": "18/36",
+                "ref": "18/36",
+                "source": "Yahoo aerial photos",
+                "width": "22"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35567614,
+            "center": {
+                "lat": 44.8286449,
+                "lon": -93.4576905
+            },
+            "nodes": [
+                417679432,
+                417679471,
+                417682625,
+                416783958,
+                417683249,
+                417679482,
+                417683418,
+                417679636,
+                416783955
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "1188",
+                "name": "10L/28R",
+                "ref": "10L/28R",
+                "source": "Yahoo aerial photos",
+                "width": "22"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35600325,
+            "center": {
+                "lat": 44.933939,
+                "lon": -93.0609791
+            },
+            "nodes": [
+                2124691942,
+                2124691962,
+                1421374101,
+                476769359,
+                417242634,
+                2124691913,
+                476769417,
+                417242628
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "1978",
+                "ref": "14/32",
+                "source": "Yahoo aerial photos",
+                "width": "45.72"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35600326,
+            "center": {
+                "lat": 44.9356815,
+                "lon": -93.0586975
+            },
+            "nodes": [
+                2124691941,
+                2124692040,
+                417242633,
+                2124691950,
+                476769522,
+                6984010300
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "1220",
+                "ref": "13/31",
+                "source": "Yahoo aerial photos",
+                "width": "45.72"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35600327,
+            "center": {
+                "lat": 44.9348077,
+                "lon": -93.0612492
+            },
+            "nodes": [
+                2124692021,
+                2124692024,
+                417242633,
+                417242634,
+                13464043372,
+                476769356,
+                2124691971,
+                417242632
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "1110",
+                "ref": "09/27",
+                "source": "Yahoo aerial photos",
+                "width": "30.48"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35894601,
+            "center": {
+                "lat": 44.2249999,
+                "lon": -93.9192439
+            },
+            "nodes": [
+                419519824,
+                8772950971,
+                419519839,
+                1627465912,
+                1229851637,
+                419519825,
+                1890651783
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ele": "310.59",
+                "length": "2011.68",
+                "ref": "15/33",
+                "surface": "concrete",
+                "width": "30.48"
+            }
+        },
+        {
+            "type": "way",
+            "id": 35894602,
+            "center": {
+                "lat": 44.2190639,
+                "lon": -93.9194002
+            },
+            "nodes": [
+                419519822,
+                419519839,
+                1627465910,
+                419519823
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ele": "306.9",
+                "length": "1219.2",
+                "ref": "04/22",
+                "surface": "paved",
+                "width": "22.86"
+            }
+        },
+        {
+            "type": "way",
+            "id": 36926255,
+            "center": {
+                "lat": 44.6280499,
+                "lon": -93.2286019
+            },
+            "nodes": [
+                429412351,
+                1208121946,
+                1208122270,
+                9355758640,
+                9355758616,
+                1208122061,
+                9355758600,
+                9355758576,
+                9355758577,
+                1208121640,
+                9355758558,
+                9355758556,
+                429412352
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ele": "960",
+                "length": "1249",
+                "name": "12/30",
+                "ref": "12-30",
+                "surface": "paved",
+                "width": "23"
+            }
+        },
+        {
+            "type": "way",
+            "id": 43326340,
+            "center": {
+                "lat": 44.8269812,
+                "lon": -93.4598035
+            },
+            "nodes": [
+                544521090,
+                8566216839,
+                8566216840,
+                8566216841,
+                544521091,
+                544521092,
+                544521093,
+                544521095,
+                544521097,
+                544521098,
+                8566258010,
+                8566258011,
+                544521099,
+                544521100,
+                544521103,
+                544521104,
+                544521106,
+                544521107,
+                544521109,
+                544521111,
+                544521115,
+                544521117,
+                8907785709,
+                8907785710,
+                544521119,
+                544521121,
+                544521122,
+                544521125,
+                544521130,
+                544521143,
+                544521144,
+                544521147,
+                544521160,
+                544521166,
+                544521170,
+                544521174,
+                544521176,
+                544521179,
+                544521182,
+                1912319390,
+                544521185,
+                4712155362,
+                544521188,
+                544521191,
+                544521192,
+                544521193,
+                544521194,
+                544521195,
+                1424851602,
+                8566216843,
+                1424851608,
+                544521199,
+                544521090
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "closest_town": "Eden Prairie, Minnesota",
+                "ele": "275",
+                "gnis:feature_id": "660296",
+                "iata": "FCM",
+                "icao": "KFCM",
+                "name": "Flying Cloud Airport",
+                "name:en": "Flying Cloud Airport",
+                "operator": "Metropolitan Airports Commission",
+                "source": "wikipedia",
+                "source_ref": "geonames.usgs.gov",
+                "type": "public",
+                "wikidata": "Q5463377",
+                "wikipedia": "en:Flying Cloud Airport"
+            }
+        },
+        {
+            "type": "way",
+            "id": 43326429,
+            "center": {
+                "lat": 44.9332715,
+                "lon": -93.0606795
+            },
+            "nodes": [
+                544522227,
+                544522228,
+                544522229,
+                544522230,
+                544522231,
+                544522232,
+                544522233,
+                544522234,
+                544522235,
+                544522237,
+                544522238,
+                544522239,
+                544522240,
+                544522241,
+                544522242,
+                544522244,
+                544522245,
+                544522247,
+                544522248,
+                544522249,
+                544522250,
+                544522251,
+                11731470385,
+                544522253,
+                544522254,
+                544522255,
+                544522256,
+                544522257,
+                544522259,
+                544522261,
+                544522262,
+                544522264,
+                5499245753,
+                5499245755,
+                5499245757,
+                5499245754,
+                5499245756,
+                544522265,
+                544522267,
+                544522270,
+                544522274,
+                544522279,
+                544522283,
+                544522287,
+                544522295,
+                544522300,
+                544522302,
+                544522304,
+                544522307,
+                544522310,
+                544522323,
+                544522327,
+                544522330,
+                544522333,
+                544522334,
+                544522227
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "alt_name": "Holman Field",
+                "gnis:feature_id": "659630",
+                "iata": "STP",
+                "icao": "KSTP",
+                "name": "St. Paul Downtown Airport",
+                "operator": "Metropolitan Airports Commission",
+                "ref": "STP",
+                "wikidata": "Q7591245",
+                "wikipedia": "en:St. Paul Downtown Airport"
+            }
+        },
+        {
+            "type": "way",
+            "id": 75494972,
+            "center": {
+                "lat": 44.1234044,
+                "lon": -93.2606209
+            },
+            "nodes": [
+                891226972,
+                11185595950,
+                1541312654,
+                1541312626,
+                11185595896,
+                1541312614,
+                11185595886,
+                3525137906
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "name": "12/30",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "way",
+            "id": 75494974,
+            "center": {
+                "lat": 44.1221357,
+                "lon": -93.2555588
+            },
+            "nodes": [
+                891226959,
+                11185595911,
+                11185595927,
+                1541312639,
+                11185595916,
+                11185595917,
+                1541312626,
+                891226962
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "name": "05/23",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "way",
+            "id": 78179851,
+            "center": {
+                "lat": 44.4754599,
+                "lon": -93.0164956
+            },
+            "nodes": [
+                918325322,
+                9156795424,
+                9156795422,
+                918325330
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 78179856,
+            "center": {
+                "lat": 44.4754164,
+                "lon": -93.0158036
+            },
+            "nodes": [
+                918325345,
+                9156795424,
+                918325350
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 83669263,
+            "center": {
+                "lat": 44.8834775,
+                "lon": -93.2225659
+            },
+            "nodes": [
+                9461355925,
+                13246448815,
+                13246448804,
+                410515160,
+                13246448913,
+                410515220,
+                13246449129,
+                13235276637,
+                410515500,
+                13235276666,
+                410514634,
+                13235276581,
+                410515623,
+                13235276609,
+                13246449312,
+                410515751,
+                13246449341,
+                410515725,
+                13246449361,
+                13246449362,
+                13236861011,
+                410515766,
+                13236860972,
+                13236860807,
+                410513113,
+                13236860734,
+                410510976,
+                13236860711,
+                410509855,
+                9461355923
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ref": "04/22"
+            }
+        },
+        {
+            "type": "way",
+            "id": 104745872,
+            "center": {
+                "lat": 44.843863,
+                "lon": -93.7357691
+            },
+            "nodes": [
+                1208157971,
+                1208157744
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "823",
+                "surface": "grass",
+                "width": "30"
+            }
+        },
+        {
+            "type": "way",
+            "id": 104745873,
+            "center": {
+                "lat": 44.6041292,
+                "lon": -93.0936421
+            },
+            "nodes": [
+                1208157772,
+                1208157898
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "unpaved"
+            }
+        },
+        {
+            "type": "way",
+            "id": 119723302,
+            "center": {
+                "lat": 44.32794,
+                "lon": -93.3116188
+            },
+            "nodes": [
+                1344179541,
+                2039167351,
+                2039167324,
+                2039287258,
+                11595494693,
+                2039167341,
+                1344179542
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ref": "12-30",
+                "surface": "paved"
+            }
+        },
+        {
+            "type": "way",
+            "id": 126532888,
+            "center": {
+                "lat": 44.5257524,
+                "lon": -93.3274661
+            },
+            "nodes": [
+                1402530957,
+                10275985082,
+                10275985091,
+                10275985080,
+                10275985078,
+                10275985103,
+                10275985077,
+                10275985101,
+                1402530955
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 155465349,
+            "center": {
+                "lat": 44.8779985,
+                "lon": -93.2187802
+            },
+            "nodes": [
+                757698120,
+                757698123,
+                1141852985,
+                757698125,
+                757698128,
+                757698131,
+                757698133,
+                757698136,
+                757698138,
+                757698141,
+                757698143,
+                757698146,
+                757698149,
+                757698152,
+                757698154,
+                3396834530,
+                757698157,
+                757698160,
+                757698162,
+                757698163,
+                757698164,
+                757698165,
+                757698166,
+                757698167,
+                757698168,
+                757698169,
+                757698170,
+                757698171,
+                757698174,
+                757698177,
+                757698180,
+                757698182,
+                757698186,
+                757698188,
+                757698190,
+                757698193,
+                757698195,
+                757698198,
+                757698201,
+                757698203,
+                757698206,
+                757698208,
+                2091714981,
+                2091714980,
+                2091714889,
+                757698212,
+                3564500155,
+                757698214,
+                3564502695,
+                757698217,
+                770812619,
+                770812384,
+                770812385,
+                770812387,
+                770812388,
+                770812389,
+                770812391,
+                770812392,
+                770812394,
+                770812396,
+                770812397,
+                770812399,
+                770812401,
+                770812402,
+                770812404,
+                770812406,
+                770812410,
+                415581322,
+                1471199670,
+                1471199672,
+                1471199664,
+                1471199665,
+                1471199669,
+                1471199668,
+                1471199671,
+                1471199667,
+                1471199666,
+                415581323,
+                415581324,
+                2118569957,
+                2481921989,
+                415581326,
+                415581327,
+                415581328,
+                415581329,
+                415581330,
+                415581331,
+                1242608785,
+                13254646556,
+                13254646589,
+                2481921961,
+                415581333,
+                415581334,
+                13254675321,
+                415581335,
+                13254675340,
+                415581336,
+                415581337,
+                415581338,
+                415581339,
+                415581340,
+                415581341,
+                415581342,
+                415581343,
+                415581344,
+                2118486754,
+                2118486728,
+                2118486719,
+                2118486738,
+                2118486692,
+                2118486693,
+                2118486758,
+                757698273,
+                757698275,
+                757698277,
+                757698280,
+                757698282,
+                757698286,
+                757698291,
+                757698294,
+                757698296,
+                757698299,
+                757698302,
+                757698304,
+                757698307,
+                757698309,
+                757698312,
+                757698314,
+                757698317,
+                757698319,
+                757698322,
+                757698324,
+                757698327,
+                757698332,
+                757698046,
+                757698050,
+                410557693,
+                757731885,
+                757731893,
+                757731898,
+                757731902,
+                757731905,
+                757731909,
+                757731912,
+                757731915,
+                757731918,
+                757731921,
+                757731924,
+                757731929,
+                757731933,
+                757731937,
+                757731942,
+                757731946,
+                757731949,
+                757731955,
+                757731959,
+                757731962,
+                757731967,
+                757731971,
+                757731975,
+                757618086,
+                757618088,
+                415788440,
+                415788441,
+                415788444,
+                757618097,
+                13025414206,
+                13025414209,
+                13025414210,
+                13025414233,
+                13025414234,
+                415788937,
+                1678585147,
+                2045507557,
+                2045507554,
+                9851286947,
+                10973670991,
+                8292277395,
+                33360426,
+                9851287032,
+                1941776625,
+                2010318068,
+                33360434,
+                33359950,
+                33331490,
+                1678585122,
+                757618099,
+                1678585126,
+                1678585149,
+                757618101,
+                757618102,
+                757618104,
+                757618106,
+                757618109,
+                757618111,
+                757618119,
+                757618121,
+                757618123,
+                757618126,
+                757618127,
+                757618128,
+                757618129,
+                757618130,
+                757698054,
+                7568147345,
+                7568147351,
+                7568147352,
+                34540846,
+                1941846380,
+                34645605,
+                8037401664,
+                34574791,
+                34665036,
+                411102424,
+                411101080,
+                411101081,
+                417056025,
+                411101082,
+                13647760185,
+                13647760184,
+                13647760183,
+                13647760182,
+                13647760181,
+                13647760180,
+                13647760179,
+                13647760178,
+                13647760177,
+                411101508,
+                411101509,
+                411101510,
+                411101511,
+                411101512,
+                757698057,
+                2662084863,
+                2662084785,
+                757698061,
+                757698063,
+                757698067,
+                757698070,
+                3406372510,
+                757698073,
+                757698076,
+                757698079,
+                757698082,
+                757698084,
+                757698087,
+                757698089,
+                757698092,
+                757698095,
+                757698098,
+                1141853062,
+                1141853064,
+                1141853068,
+                1141853070,
+                1141853072,
+                1141853074,
+                1141853075,
+                1141853076,
+                757698120
+            ],
+            "tags": {
+                "addr:city": "Minneapolis",
+                "addr:housenumber": "4300",
+                "addr:postcode": "55450",
+                "addr:state": "MN",
+                "addr:street": "Glumack Drive",
+                "aerodrome": "international",
+                "aerodrome:type": "public",
+                "aeroway": "aerodrome",
+                "ele": "256",
+                "iata": "MSP",
+                "icao": "KMSP",
+                "name": "Minneapolis-Saint Paul International Airport",
+                "name:en": "Minneapolis-Saint Paul International Airport",
+                "operator": "Metropolitan Airports Commission",
+                "owner": "Metropolitan Airports Commission",
+                "passengers": "33118499",
+                "ref": "MSP",
+                "source": "Bing",
+                "source_ref": "geonames.usgs.gov",
+                "website": "https://www.mspairport.com/",
+                "wikidata": "Q875749",
+                "wikipedia": "en:Minneapolis\u2013Saint Paul International Airport"
+            }
+        },
+        {
+            "type": "way",
+            "id": 160173591,
+            "center": {
+                "lat": 44.1232112,
+                "lon": -93.2604582
+            },
+            "nodes": [
+                1722391437,
+                398028545,
+                13304700989,
+                398028543,
+                398028541,
+                398028539,
+                398028537,
+                13304700990,
+                13304700991,
+                13304700992,
+                13304700993,
+                13304700994,
+                13304700995,
+                13304700996,
+                3525153465,
+                1722391441,
+                1722391444,
+                1722391432,
+                1722391446,
+                1722391440,
+                13304700997,
+                13304700998,
+                1722391439,
+                1722391435,
+                1722391436,
+                13304700999,
+                1722391434,
+                1722391437
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "345",
+                "gnis:feature_id": "660338",
+                "iata": "OWA",
+                "icao": "KOWA",
+                "name": "Owatonna Municipal Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35286798"
+            }
+        },
+        {
+            "type": "way",
+            "id": 160605817,
+            "center": {
+                "lat": 44.8567912,
+                "lon": -93.0319242
+            },
+            "nodes": [
+                1726577709,
+                4464362251,
+                4464362252,
+                4464362253,
+                4464362254,
+                4464362255,
+                4464323033,
+                544367048,
+                4464323032,
+                395804390,
+                395804387,
+                395804371,
+                395804494,
+                395804488,
+                13587319564,
+                13587319563,
+                13587319562,
+                13587319561,
+                395804505,
+                13587319560,
+                395804500,
+                4464344296,
+                4464344295,
+                4464362498,
+                4464344294,
+                4464362497,
+                7167744145,
+                395806793,
+                7167744146,
+                395804477,
+                395804448,
+                395804458,
+                395804464,
+                395804471,
+                395804425,
+                4464362496,
+                1726577740,
+                4464362492,
+                395804435,
+                395804441,
+                395804420,
+                395806823,
+                1726577729,
+                4464319014,
+                4464319013,
+                395806814,
+                4464319016,
+                1726577722,
+                1726577732,
+                1726577712,
+                724232421,
+                724232463,
+                1726577718,
+                1726577709
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "alt_name": "Fleming Field",
+                "faa": "SGS",
+                "icao": "KSGS",
+                "name": "South St. Paul Municipal Airport",
+                "wikidata": "Q7568530"
+            }
+        },
+        {
+            "type": "way",
+            "id": 164125701,
+            "center": {
+                "lat": 44.0739614,
+                "lon": -93.5521287
+            },
+            "nodes": [
+                1757847976,
+                1757847930,
+                1757847967,
+                10749372918,
+                1757848002,
+                1757848054,
+                1757847990,
+                1757848016,
+                1757848024,
+                1757848030,
+                1757847979,
+                1757847937,
+                1757848056,
+                1757847964,
+                1757848047,
+                1757848063,
+                1757848004,
+                1757848021,
+                1757847976
+            ],
+            "tags": {
+                "addr:city": "Waseca",
+                "addr:housenumber": "35493",
+                "addr:postcode": "56093",
+                "addr:state": "MN",
+                "addr:street": "110th Street",
+                "aeroway": "aerodrome",
+                "ele": "341",
+                "gnis:feature_id": "660461",
+                "icao": "KACQ",
+                "name": "Waseca Municipal Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q7971382"
+            }
+        },
+        {
+            "type": "way",
+            "id": 173001736,
+            "center": {
+                "lat": 44.4408882,
+                "lon": -93.915825
+            },
+            "nodes": [
+                1838342194,
+                1838342190,
+                1838342188
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ref": "13/31"
+            }
+        },
+        {
+            "type": "way",
+            "id": 178710552,
+            "center": {
+                "lat": 44.2236035,
+                "lon": -93.9193142
+            },
+            "nodes": [
+                1890651938,
+                1890651816,
+                8880431779,
+                1890651916,
+                8880431733,
+                1890651827,
+                1890651992,
+                8927364439,
+                1890652035,
+                1890652096,
+                8880374815,
+                8857515634,
+                8857515633,
+                1890651710,
+                1890651885,
+                8857515678,
+                1890651860,
+                8857515677,
+                8857515676,
+                8857515675,
+                8857515674,
+                8857515673,
+                8857515667,
+                8857515666,
+                8857515658,
+                1890651891,
+                1890651976,
+                8857515655,
+                8857515654,
+                8857515649,
+                8857515647,
+                8857515645,
+                8857515644,
+                8857515642,
+                8777342467,
+                1890651966,
+                8857515635,
+                8857488906,
+                1890651903,
+                8857488907,
+                1890651917,
+                8857515628,
+                1890651928,
+                8857515629,
+                8857515630,
+                8857488904,
+                1890652037,
+                8857488905,
+                8857488903,
+                8857488902,
+                8857488897,
+                1890651714,
+                1890651755,
+                1890651736,
+                1890651904,
+                1890651747,
+                8846690165,
+                1890651828,
+                1890652059,
+                1890651919,
+                1890651978,
+                1890652025,
+                1890651800,
+                1890651851,
+                1890651779,
+                1890652102,
+                1890651991,
+                1890652063,
+                1890652084,
+                1890651759,
+                1890651870,
+                1890651953,
+                1890651788,
+                1890651708,
+                1890651872,
+                1890651744,
+                1890651964,
+                397778818,
+                397778814,
+                397778812,
+                397778811,
+                397778809,
+                397778807,
+                397778805,
+                1890652061,
+                1890651791,
+                1890652033,
+                397778800,
+                397778799,
+                1890652051,
+                1890651969,
+                1890651938
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "309",
+                "gnis:feature_id": "660274",
+                "iata": "MKT",
+                "icao": "KMKT",
+                "is_in": "Mankato, Minnesota",
+                "name": "Mankato Regional Airport",
+                "name:en": "Mankato Regional Airport",
+                "name_1": "Mankato Regional Airport",
+                "owner": "City of Mankato",
+                "ref": "KMKT",
+                "source": "wikipedia",
+                "source_ref": "geonames.usgs.gov",
+                "type": "public",
+                "wikidata": "Q1443713",
+                "wikipedia": "en:Mankato Regional Airport"
+            }
+        },
+        {
+            "type": "way",
+            "id": 218402182,
+            "center": {
+                "lat": 44.6609071,
+                "lon": -93.1010498
+            },
+            "nodes": [
+                2276401954,
+                2276401953,
+                2276401950
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 234948066,
+            "center": {
+                "lat": 44.3282805,
+                "lon": -93.3130618
+            },
+            "nodes": [
+                2039147949,
+                2039147950,
+                2039147959,
+                2430647656,
+                2430647358,
+                2430647392,
+                2430647691,
+                397792654,
+                397792652,
+                397792650,
+                397792648,
+                397791226,
+                397791223,
+                2430620614,
+                2039147976,
+                2039147955,
+                2039147965,
+                2039147963,
+                2039147969,
+                2039147948,
+                2039147951,
+                2039147952,
+                2039147971,
+                2039147953,
+                2430639720,
+                2430638410,
+                2039147974,
+                2039147972,
+                2039147961,
+                2039147957,
+                2039147967,
+                2039147949
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "ele": "323",
+                "iata": "FBL",
+                "icao": "KFBL",
+                "name": "Faribault Municipal Airport",
+                "note": "municipal",
+                "operator": "Quality Aviation;City of Faribault",
+                "source": "bing;Rice County",
+                "wikidata": "Q35255687"
+            }
+        },
+        {
+            "type": "way",
+            "id": 239259255,
+            "center": {
+                "lat": 44.7170894,
+                "lon": -93.0441731
+            },
+            "nodes": [
+                2470612447,
+                2470611758
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 306072851,
+            "center": {
+                "lat": 44.0734737,
+                "lon": -93.5529525
+            },
+            "nodes": [
+                12153771699,
+                1757848006,
+                1757848025,
+                1757847998
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "1036",
+                "ref": "15/33",
+                "surface": "asphalt",
+                "width": "23"
+            }
+        },
+        {
+            "type": "way",
+            "id": 350504296,
+            "center": {
+                "lat": 44.6442524,
+                "lon": -93.7008116
+            },
+            "nodes": [
+                3562652569,
+                10276051902,
+                3562652570
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ele": "800 ft",
+                "length": "762",
+                "name": "09/27",
+                "ref": "09-27",
+                "surface": "grass",
+                "width": "23"
+            }
+        },
+        {
+            "type": "way",
+            "id": 350505226,
+            "center": {
+                "lat": 44.6839138,
+                "lon": -93.6369816
+            },
+            "nodes": [
+                3562658655,
+                10276031797,
+                3562658656
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ele": "855 ft",
+                "length": "610",
+                "ref": "SW-NE",
+                "surface": "grass",
+                "width": "30"
+            }
+        },
+        {
+            "type": "way",
+            "id": 350505227,
+            "center": {
+                "lat": 44.6855137,
+                "lon": -93.6363698
+            },
+            "nodes": [
+                3562658658,
+                3562658659
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ele": "855",
+                "length": "427",
+                "name": "W-E",
+                "surface": "grass",
+                "width": "30"
+            }
+        },
+        {
+            "type": "way",
+            "id": 350505228,
+            "center": {
+                "lat": 44.6839696,
+                "lon": -93.6383532
+            },
+            "nodes": [
+                10276031796,
+                3562658657
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ele": "855 ft",
+                "length": "427",
+                "ref": "N-S",
+                "surface": "grass",
+                "width": "30"
+            }
+        },
+        {
+            "type": "way",
+            "id": 393012193,
+            "center": {
+                "lat": 44.5989169,
+                "lon": -93.1275993
+            },
+            "nodes": [
+                3962003594,
+                3962003564,
+                3962003576,
+                369004418,
+                3962003567
+            ],
+            "tags": {
+                "aeroway": "runway"
+            }
+        },
+        {
+            "type": "way",
+            "id": 420143884,
+            "center": {
+                "lat": 44.4411855,
+                "lon": -93.9153402
+            },
+            "nodes": [
+                4201228693,
+                4201228696,
+                4201228689,
+                4201228695,
+                3802955641,
+                3802955642,
+                3802955643,
+                3802955644,
+                3802955645,
+                3802955646,
+                3802955647,
+                3802955648,
+                3802955649,
+                3802955650,
+                3802955651,
+                3802955652,
+                3802955653,
+                3802955654,
+                3802955655,
+                3802955656,
+                3802955857,
+                3792104638,
+                3792104639,
+                3792104640,
+                3792104641,
+                3792089241,
+                3792089242,
+                3792089243,
+                3792089244,
+                3792089245,
+                3792089246,
+                4201228690,
+                4201228691,
+                4201228692,
+                4201228694,
+                4201228693
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "264",
+                "gnis:feature_id": "660247",
+                "name": "Le Sueur Municipal Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q6507708"
+            }
+        },
+        {
+            "type": "way",
+            "id": 445129263,
+            "center": {
+                "lat": 44.6259852,
+                "lon": -93.222785
+            },
+            "nodes": [
+                4426001345,
+                4426001602,
+                4426001366,
+                4426001322,
+                4426001349,
+                4426001343,
+                4426001330,
+                4426001613,
+                4426001300,
+                4426001607,
+                4426001612,
+                4426001380,
+                4426001608,
+                4426001599,
+                4426001351,
+                4426001387,
+                4426001360,
+                5135641510,
+                9343820168,
+                4426001335,
+                9498823102,
+                11443788279,
+                9498823103,
+                4426001308,
+                11443788361,
+                4426001368,
+                9498823104,
+                9498823101,
+                9498823100,
+                11443788346,
+                9498823099,
+                9115545482,
+                9115545483,
+                9115545484,
+                9115545485,
+                9115545486,
+                9115545487,
+                4426001329,
+                4426001345
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "city_served": "Lakeville, Minnesota",
+                "ele": "291",
+                "gnis:feature_id": "660292",
+                "icao": "KLVN",
+                "name": "Airlake Airport",
+                "name:en": "Airlake Airport",
+                "operator": "Metropolitan Airports Commission",
+                "source": "wikipedia",
+                "source_ref": "geonames.usgs.gov",
+                "type": "public",
+                "wikidata": "Q4698730",
+                "wikipedia": "en:Airlake Airport"
+            }
+        },
+        {
+            "type": "way",
+            "id": 456791993,
+            "center": {
+                "lat": 44.6602819,
+                "lon": -93.7787604
+            },
+            "nodes": [
+                4530306564,
+                4530306563
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "776 m",
+                "ref": "18/36",
+                "surface": "turf",
+                "width": "34m"
+            }
+        },
+        {
+            "type": "way",
+            "id": 459838002,
+            "center": {
+                "lat": 44.0323124,
+                "lon": -93.9485557
+            },
+            "nodes": [
+                4555726989,
+                4555726990
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "671",
+                "name": "18/36",
+                "ref": "18/36",
+                "surface": "grass",
+                "width": "26"
+            }
+        },
+        {
+            "type": "way",
+            "id": 459838006,
+            "center": {
+                "lat": 44.032512,
+                "lon": -93.9481071
+            },
+            "nodes": [
+                4555726991,
+                4555726992,
+                4555870213,
+                4555870212,
+                4555726993,
+                4555726994,
+                4555726991
+            ],
+            "tags": {
+                "aerodrome": "private",
+                "aerodrome:type": "private",
+                "aeroway": "aerodrome",
+                "faa": "93MN",
+                "name": "Hoppe Sky Ranch Airport",
+                "operator": "Joel Hoppe",
+                "phone": "+1-507-245-3263",
+                "type": "private",
+                "wikidata": "Q35266142"
+            }
+        },
+        {
+            "type": "way",
+            "id": 474082357,
+            "center": {
+                "lat": 44.1270164,
+                "lon": -93.8722542
+            },
+            "nodes": [
+                4681055387,
+                4681055386
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 482762957,
+            "center": {
+                "lat": 44.8163179,
+                "lon": -93.0133652
+            },
+            "nodes": [
+                4755582335,
+                4755582334
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 491715423,
+            "center": {
+                "lat": 44.4238943,
+                "lon": -93.4842089
+            },
+            "nodes": [
+                1042048214,
+                4837951111,
+                4837951110,
+                4837951109,
+                4837951108,
+                4837951107,
+                4837951106,
+                4837951105,
+                4837951104,
+                4837951103,
+                4837951102,
+                4837951101,
+                4837951100,
+                1042048214
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Tuma Private Airport",
+                "source": "ourairports.com",
+                "wikidata": "Q35313369"
+            }
+        },
+        {
+            "type": "way",
+            "id": 491715425,
+            "center": {
+                "lat": 44.4238388,
+                "lon": -93.484337
+            },
+            "nodes": [
+                4837951117,
+                4837951116
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 884559393,
+            "center": {
+                "lat": 44.6601857,
+                "lon": -93.5180395
+            },
+            "nodes": [
+                8226064957,
+                8226064958
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "length": "1036",
+                "ref": "18/36",
+                "surface": "grass",
+                "width": "46"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1014360333,
+            "center": {
+                "lat": 44.5992197,
+                "lon": -93.2813311
+            },
+            "nodes": [
+                9358445254,
+                9358445255
+            ],
+            "tags": {
+                "aeroway": "runway"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1026192549,
+            "center": {
+                "lat": 44.8926415,
+                "lon": -93.209676
+            },
+            "nodes": [
+                294044996,
+                13236860317,
+                410506522,
+                13236860469,
+                9461355923
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ref": "04/22",
+                "runway": "displaced_threshold"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1026192551,
+            "center": {
+                "lat": 44.8736681,
+                "lon": -93.2363627
+            },
+            "nodes": [
+                9461355926,
+                410534929,
+                410535340,
+                13235598918,
+                13235598934,
+                13246448789,
+                410515135,
+                9461355925
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ref": "04/22",
+                "runway": "displaced_threshold"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1123652255,
+            "center": {
+                "lat": 44.5252364,
+                "lon": -93.3273838
+            },
+            "nodes": [
+                369005152,
+                10275985104,
+                10275988313,
+                10275988312,
+                10275988311,
+                10275988310,
+                10275988309,
+                10275985073,
+                10275985074,
+                10275985106,
+                10275985107,
+                10275985108,
+                10275985105,
+                10275985075,
+                369005152
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "336",
+                "gnis:feature_id": "660465",
+                "name": "Sky Harbor Residential Airpark",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35302931"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1123658384,
+            "center": {
+                "lat": 44.6233318,
+                "lon": -93.4011235
+            },
+            "nodes": [
+                10276035827,
+                10276035829,
+                10276035828
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1123658388,
+            "center": {
+                "lat": 44.6216754,
+                "lon": -93.4011163
+            },
+            "nodes": [
+                10276035842,
+                10276035843,
+                10276035844,
+                10276035845,
+                10276035846,
+                10276035847,
+                10276035848,
+                10276035849,
+                10276035850,
+                10276037009,
+                10276035908,
+                10276035907,
+                10276035851,
+                10276035852,
+                10276035853,
+                10276035854,
+                10276035855,
+                10276035856,
+                10276035857,
+                10276035858,
+                10276035859,
+                10276035860,
+                10276035842
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Smith Field"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1123659852,
+            "center": {
+                "lat": 44.6838822,
+                "lon": -93.636528
+            },
+            "nodes": [
+                369004501,
+                10276031798,
+                10276031799,
+                10276031800,
+                10276031801,
+                10276031802,
+                10276031803,
+                10276031804,
+                10276031805,
+                10276031806,
+                10276031807,
+                10276031808,
+                10276047109,
+                10276047110,
+                10276047111,
+                10276047112,
+                10276047113,
+                10276047114,
+                10276047115,
+                10276047116,
+                10276047117,
+                10276031794,
+                10276031795,
+                10276047118,
+                10276047119,
+                10276047120,
+                10276047121,
+                10276047122,
+                10276047123,
+                10276047124,
+                10276047125,
+                10276047126,
+                10276047127,
+                10276047128,
+                10276047129,
+                10276047130,
+                10276047131,
+                369004501
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "alt_name": "Stocker Landing Field",
+                "ele": "250",
+                "gnis:feature_id": "660236",
+                "name": "Stocker Private Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35307044"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1123660658,
+            "center": {
+                "lat": 44.6427107,
+                "lon": -93.7007835
+            },
+            "nodes": [
+                1042019261,
+                10276051907,
+                10276051908,
+                10276052609,
+                10276052610,
+                10276052611,
+                10276052612,
+                10276052613,
+                10276052614,
+                10276052615,
+                10276052616,
+                1042019261
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Merill L Harris Field",
+                "source": "ourairports.com"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1123669595,
+            "center": {
+                "lat": 44.1503235,
+                "lon": -93.2771776
+            },
+            "nodes": [
+                10276107150,
+                10276107151
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1123669599,
+            "center": {
+                "lat": 44.1497842,
+                "lon": -93.2775436
+            },
+            "nodes": [
+                10276107162,
+                10276107163,
+                10276107164,
+                10276107165,
+                10276107166,
+                10276107167,
+                10276107168,
+                10276107169,
+                13304717846,
+                10276107162
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Underland Airstrip"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1191528464,
+            "center": {
+                "lat": 44.5703024,
+                "lon": -93.1321675
+            },
+            "nodes": [
+                11062705037,
+                11062685888,
+                11062705038,
+                11062705039,
+                11062685889,
+                11062705040,
+                11062705037
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "gnis:feature_id": "660155",
+                "name": "Jennrich Field"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1191529068,
+            "center": {
+                "lat": 44.5702917,
+                "lon": -93.1321711
+            },
+            "nodes": [
+                11062685888,
+                11062685889
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1191532645,
+            "center": {
+                "lat": 44.6361386,
+                "lon": -93.0700298
+            },
+            "nodes": [
+                11062733332,
+                11062733333
+            ],
+            "tags": {
+                "aeroway": "runway"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1228891761,
+            "center": {
+                "lat": 44.1271048,
+                "lon": -93.8723216
+            },
+            "nodes": [
+                1042048208,
+                11396506379,
+                11396506380,
+                11396506396,
+                11396506381,
+                11396506382,
+                11396506383,
+                11396506384,
+                11396506385,
+                11396506386,
+                11396506387,
+                11396506388,
+                11396506406,
+                11396506389,
+                11396506390,
+                11396506391,
+                11396506392,
+                1042048208
+            ],
+            "tags": {
+                "aeroway": "aerodrome",
+                "name": "Eagles Nest Aerodrome",
+                "source": "ourairports.com",
+                "wikidata": "Q35253849"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1229715924,
+            "center": {
+                "lat": 44.843991,
+                "lon": -93.7356976
+            },
+            "nodes": [
+                3098004366,
+                369004852,
+                11403587355,
+                11403587356,
+                11403587357,
+                3098004400,
+                3098004401,
+                3098004402,
+                3098004403,
+                3098004404,
+                3098004405,
+                3098004406,
+                3098004407,
+                3098004408,
+                3098004409,
+                3098004366
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "309",
+                "gnis:feature_id": "660452",
+                "name": "Molnau Airpark",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35281371"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1247335651,
+            "center": {
+                "lat": 44.3308591,
+                "lon": -93.3157687
+            },
+            "nodes": [
+                11595494691,
+                11595494693,
+                11595494694,
+                11595494692
+            ],
+            "tags": {
+                "aeroway": "runway",
+                "ref": "01/19",
+                "surface": "grass"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1303331074,
+            "center": {
+                "lat": 44.6601657,
+                "lon": -93.5180212
+            },
+            "nodes": [
+                369004505,
+                12070367823,
+                12070367824,
+                12070367825,
+                12070367826,
+                12070367827,
+                12070367828,
+                12070367829,
+                12070367830,
+                12070367831,
+                12070367832,
+                12070367833,
+                12070367834,
+                12070367835,
+                369004505
+            ],
+            "tags": {
+                "addr:state": "MN",
+                "aeroway": "aerodrome",
+                "ele": "285",
+                "gnis:feature_id": "660265",
+                "name": "Sky Park Airport",
+                "source_ref": "geonames.usgs.gov",
+                "wikidata": "Q35303057"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1382968668,
+            "center": {
+                "lat": 44.6894434,
+                "lon": -93.66533
+            },
+            "nodes": [
+                12803956034,
+                12803956035
+            ],
+            "tags": {
+                "aeroway": "runway"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1382968669,
+            "center": {
+                "lat": 44.6895012,
+                "lon": -93.6653829
+            },
+            "nodes": [
+                12803956036,
+                12803956037
+            ],
+            "tags": {
+                "aeroway": "runway"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 2195810,
+            "center": {
+                "lat": 44.4753194,
+                "lon": -93.0152373
+            },
+            "members": [
+                {
+                    "type": "way",
+                    "ref": 164723577,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 164723582,
+                    "role": "outer"
+                },
+                {
+                    "type": "way",
+                    "ref": 164723557,
+                    "role": "outer"
+                }
+            ],
+            "tags": {
+                "addr:city": "Stanton",
+                "addr:housenumber": "1235",
+                "addr:postcode": "55018",
+                "addr:state": "MN",
+                "addr:street": "Highway 19 Boulevard",
+                "aeroway": "aerodrome",
+                "alt_name": "Historic Stanton Airfield",
+                "ele": "280",
+                "gnis:feature_id": "660429",
+                "historic": "yes",
+                "iata": "SYN",
+                "icao": "KSYN",
+                "name": "Stanton Airfield",
+                "phone": "+1 507 645 4030",
+                "source_ref": "geonames.usgs.gov",
+                "start_date": "1942",
+                "type": "multipolygon",
+                "website": "https://stantonairfield.com/",
+                "wikidata": "Q7600226"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="file:///C:/Users/dmkur/Documents/VehicleDesign/FlightSimulatorAEM4331/FlightSim/ui/Map/maplibre-gl.css" rel="stylesheet" />
+    <script src="file:///C:/Users/dmkur/Documents/VehicleDesign/FlightSimulatorAEM4331/FlightSim/ui/Map/maplibre-gl.js"></script>
+    <style>
+        body { margin:0; padding:0; background: #507C3C; overflow: hidden; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+    var map;
+    map = new maplibregl.Map({
+        container: 'map',
+        style: 'file:///C:/Users/dmkur/Documents/VehicleDesign/FlightSimulatorAEM4331/FlightSim/ui/Map/style.json',
+        center: [-93.278, 44.943],
+        zoom: 12.0,
+        attributionControl: false
+    });
+
+    window.updateMap = function(lat, lon, hdg, zoom) {
+        if (map) {
+            map.jumpTo({ center: [lon, lat], bearing: hdg, zoom: zoom, animate: false });
+        }
+    };
+</script>
+</body>
+</html>

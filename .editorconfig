@@ -1,0 +1,40 @@
+# .editorconfig — Google-style Python defaults
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# ---- Python files ----
+[*.{py,pyi}]
+indent_style = space
+indent_size = 4
+# Google Python style targets 80 columns.
+max_line_length = 80
+
+# Keep two-space continuation in many editors (best-effort; not standard everywhere)
+# Some IDEs honor this:
+continuation_indent_size = 4
+
+# ---- Shell scripts ----
+[*.sh]
+indent_style = space
+indent_size = 2
+
+# ---- YAML / JSON ----
+[*.{yml,yaml,json}]
+indent_style = space
+indent_size = 2
+
+# ---- Markdown / reStructuredText ----
+# Don’t strip trailing spaces (common for line-break control in Markdown)
+[*.{md,rst}]
+trim_trailing_whitespace = false
+
+# ---- Makefiles (tabs required) ----
+[Makefile]
+indent_style = tab
+indent_size = 4

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+
+<metrics>
+    <wingarea unit="M2">16</wingarea>
+    <wingspan unit="M">4</wingspan>
+    <chord unit="M">4</chord>
+    
+    <!--
+    #<htailarea unit="M2"> 0.01 </htailarea>
+    <htailarm unit="M">    0.05 </htailarm>
+    <vtailarea unit="M2"> 0.01 </vtailarea>
+    <vtailarm unit="M">    0.05 </vtailarm>
+    -->
+
+    <location name="AERORP" unit="M">
+        <x>0.0</x>
+        <y>0.0</y>
+        <z>0.0</z>
+    </location>
+
+    <location name="EYEPOINT" unit="M">
+        <x>0.0</x>
+        <y>0.0</y>
+        <z>0.0</z>
+    </location>
+
+    <location name="VRP" unit="M">
+        <x>0.0</x>
+        <y>0.0</y>
+        <z>0.0</z>
+    </location>
+</metrics>
+

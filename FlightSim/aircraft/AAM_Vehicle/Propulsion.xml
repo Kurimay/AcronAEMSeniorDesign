@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+
+<propulsion>
+  <engine file="AAM_engine" name="front right">
+    <thruster file="prop_PT6">
+      <location unit="M">
+        <x>-4.0</x>
+        <y>4.0</y>
+        <z>4.0</z>
+      </location>
+      <orient unit="DEG">
+        <roll>0</roll>
+        <pitch>90</pitch>
+        <yaw>0</yaw>
+      </orient>
+      <sense>1.0</sense>
+      <p_factor>0.0</p_factor>
+    </thruster>
+  </engine>
+
+  <engine file="AAM_engine" name="aft left">
+    <thruster file="prop_PT6">
+      <location unit="M">
+        <x>4.0</x>
+        <y>-4.0</y>
+        <z>4.0</z>
+      </location>
+      <orient unit="DEG">
+        <roll>0</roll>
+        <pitch>90</pitch>
+        <yaw>0</yaw>
+      </orient>
+      <sense>1.0</sense>
+      <p_factor>0.0</p_factor>
+    </thruster>
+  </engine>
+
+  <engine file="AAM_engine" name="front left">
+    <thruster file="prop_PT6">
+      <location unit="M">
+        <x>-4.0</x>
+        <y>-4.0</y>
+        <z>4.0</z>
+      </location>
+      <orient unit="DEG">
+        <roll>0</roll>
+        <pitch>90</pitch>
+        <yaw>0</yaw>
+      </orient>
+      <sense>-1.0</sense>
+      <p_factor>0.0</p_factor>
+    </thruster>
+  </engine>
+
+  <engine file="AAM_engine" name="aft right">
+    <thruster file="prop_PT6">
+      <location unit="M">
+        <x>4.0</x>
+        <y>4.0</y>
+        <z>4.0</z>
+      </location>
+      <orient unit="DEG">
+        <roll>0</roll>
+        <pitch>90</pitch>
+        <yaw>0</yaw>
+      </orient>
+      <sense>-1.0</sense>
+      <p_factor>0.0</p_factor>
+    </thruster>
+  </engine>
+</propulsion>

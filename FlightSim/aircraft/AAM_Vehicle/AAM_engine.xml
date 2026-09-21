@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<electric_engine name="AAM_engine">
+
+  <!-- Maximums -->
+  <max-power unit="W">1500000.0</max-power>
+  <max-rpm   unit="RPM">2000</max-rpm>
+  <max-torque unit="N*m">8900.0</max-torque>
+
+  <!-- Torque-speed behaviour:
+       Constant torque (electric motor) from 0 -> 1000 RPM.
+       Above 1000 RPM torque will be limited by max-rpm. -->
+  <torque-map>
+    <table>
+      <independentVar lookup="rpm" unit="RPM">
+        0 500 1000 1500 2000
+      </independentVar>
+
+      <dependentVar lookup="torque" unit="N*m">
+        8000.0 15000.0 15000.0 8000.0
+      </dependentVar>
+    </table>
+  </torque-map>
+</electric_engine>
